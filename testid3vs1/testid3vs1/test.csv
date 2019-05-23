@@ -1,0 +1,9 @@
+ID,Engine,Type,Color,4WD,Want?
+1,2000cc,SUV,Silver,Yes,Yes
+2,1000cc,Sedan,Silver,Yes,Yes
+3,2000cc,Sport,Blue,No,No
+4,1000cc,SUV,Blue,No,Yes
+5,2000cc,Sedan,Silver,Yes,No
+6,2000cc,Sport,Blue,Yes,Yes
+7,1000cc,Sedan,Blue,No,Yes
+8,1000cc,SUV,Silver,No,Yes
